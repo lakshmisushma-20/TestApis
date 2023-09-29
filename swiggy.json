@@ -1,1520 +1,1572 @@
 [
-    {
-      info: {
-        id: "654809",
-        name: "Meghana Foods",
-        cloudinaryImageId: "c627e55c996978a070c10079ae57f706",
-        locality: "G R S TOWERS",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹500 for two",
-        cuisines: [
-          "Biryani",
-          "Andhra",
-          "South Indian",
-          "North Indian",
-          "Chinese",
-          "Seafood",
+  {
+    "info": {
+      "id": "654809",
+      "name": "Meghana Foods",
+      "cloudinaryImageId": "c627e55c996978a070c10079ae57f706",
+      "locality": "G R S TOWERS",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "Biryani",
+        "Andhra",
+        "South Indian",
+        "North Indian",
+        "Chinese",
+        "Seafood"
+      ],
+      "avgRating": 4.4,
+      "feeDetails": {
+        "restaurantId": "654809",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
         ],
-        avgRating: 4.4,
-        feeDetails: {
-          restaurantId: "654809",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3500,
-            },
-            {
-              name: "BASE_TIME",
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-          ],
-          totalFee: 3500,
-        },
-        parentId: "635",
-        avgRatingString: "4.4",
-        totalRatingsString: "10K+",
-        sla: {
-          deliveryTime: 18,
-          lastMileTravel: 2.9,
-          serviceability: "SERVICEABLE",
-          slaString: "18 mins",
-          lastMileTravelString: "2.9 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-29 01:30:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        orderabilityCommunication: {
-          title: {},
-          subTitle: {},
-          message: {},
-          customIcon: {},
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
+        "totalFee": 3500
       },
-      analytics: {
-        context: "seo-data-36a22296-4d17-4658-ba84-237e5362ae25",
+      "parentId": "635",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 18,
+        "lastMileTravel": 2.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "18 mins",
+        "lastMileTravelString": "2.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
       },
-      cta: {
-        link: "https://www.swiggy.com/restaurants/meghana-foods-g-r-s-towers-sarjapur-road-bangalore-654809",
-        text: "RESTAURANT_MENU",
-        type: "WEBLINK",
+      "availability": {
+        "nextCloseTime": "2023-09-29 01:30:00",
+        "opened": true
       },
-      widgetId: "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
     },
-  
-    {
-      info: {
-        id: "47603",
-        name: "Truffles",
-        cloudinaryImageId: "cd832b6167eb9f88aeb1ccdebf38d942",
-        locality: "Green Glen Layout",
-        areaName: "Bellandur",
-        costForTwo: "₹450 for two",
-        cuisines: ["American", "Beverages", "Continental", "Desserts", "Italian"],
-        avgRating: 4.4,
-        feeDetails: {
-          restaurantId: "47603",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 5100,
-            },
-            {
-              name: "BASE_TIME",
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-          ],
-          totalFee: 5100,
-        },
-        parentId: "218065",
-        avgRatingString: "4.4",
-        totalRatingsString: "10K+",
-        sla: {
-          deliveryTime: 28,
-          lastMileTravel: 5,
-          serviceability: "SERVICEABLE",
-          slaString: "28 mins",
-          lastMileTravelString: "5.0 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-29 00:00:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        orderabilityCommunication: {
-          title: {},
-          subTitle: {},
-          message: {},
-          customIcon: {},
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {
-        context: "seo-data-36a22296-4d17-4658-ba84-237e5362ae25",
-      },
-      cta: {
-        link: "https://www.swiggy.com/restaurants/truffles-green-glen-layout-bellandur-bangalore-47603",
-        text: "RESTAURANT_MENU",
-        type: "WEBLINK",
-      },
-      widgetId: "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+    "analytics": {
+      "context": "seo-data-36a22296-4d17-4658-ba84-237e5362ae25"
     },
-    {
-      info: {
-        id: "389992",
-        name: "Nandhana Palace",
-        cloudinaryImageId: "195876a3181ef63f76e45e3a7b49b585",
-        locality: "Daddakanahalli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹600 for two",
-        cuisines: [
-          "Andhra",
-          "Biryani",
-          "North Indian",
-          "Chinese",
-          "Beverages",
-          "Desserts",
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/meghana-foods-g-r-s-towers-sarjapur-road-bangalore-654809",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "47603",
+      "name": "Truffles",
+      "cloudinaryImageId": "cd832b6167eb9f88aeb1ccdebf38d942",
+      "locality": "Green Glen Layout",
+      "areaName": "Bellandur",
+      "costForTwo": "₹450 for two",
+      "cuisines": [
+        "American",
+        "Beverages",
+        "Continental",
+        "Desserts",
+        "Italian"
+      ],
+      "avgRating": 4.4,
+      "feeDetails": {
+        "restaurantId": "47603",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 5100
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
         ],
-        avgRating: 4,
-        feeDetails: {
-          restaurantId: "389992",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3300,
-            },
-            {
-              name: "BASE_TIME",
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-          ],
-          totalFee: 3300,
-        },
-        parentId: "2120",
-        avgRatingString: "4.0",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 21,
-          lastMileTravel: 2.8,
-          serviceability: "SERVICEABLE",
-          slaString: "21 mins",
-          lastMileTravelString: "2.8 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-29 01:00:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "40% OFF",
-          subHeader: "UPTO ₹80",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        orderabilityCommunication: {
-          title: {},
-          subTitle: {},
-          message: {},
-          customIcon: {},
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
+        "totalFee": 5100
       },
-      analytics: {
-        context: "seo-data-36a22296-4d17-4658-ba84-237e5362ae25",
+      "parentId": "218065",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 28,
+        "lastMileTravel": 5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "28 mins",
+        "lastMileTravelString": "5.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
       },
-      cta: {
-        link: "https://www.swiggy.com/restaurants/nandhana-palace-daddakanahalli-sarjapur-road-bangalore-389992",
-        text: "RESTAURANT_MENU",
-        type: "WEBLINK",
+      "availability": {
+        "nextCloseTime": "2023-09-29 00:00:00",
+        "opened": true
       },
-      widgetId: "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
     },
-    {
-      info: {
-        id: "23793",
-        name: "Domino's Pizza",
-        cloudinaryImageId: "qowzwpsppcrejwijgwap",
-        locality: "Daddakanahalli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹400 for two",
-        cuisines: ["Pizzas", "Italian", "Pastas", "Desserts"],
-        avgRating: 4.3,
-        feeDetails: {
-          restaurantId: "23793",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3100,
-            },
-            {
-              name: "BASE_TIME",
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-          ],
-          totalFee: 3100,
-        },
-        parentId: "2456",
-        avgRatingString: "4.3",
-        totalRatingsString: "10K+",
-        sla: {
-          deliveryTime: 25,
-          serviceability: "SERVICEABLE",
-          slaString: "25 mins",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-  
-        availability: {
-          nextCloseTime: "2023-09-27 23:59:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "30% OFF",
-          subHeader: "UPTO ₹75",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/dominos-pizza-daddakanahalli-sarjapur-road-bangalore-23793",
-        type: "WEBLINK",
-      },
+    "analytics": {
+      "context": "seo-data-36a22296-4d17-4658-ba84-237e5362ae25"
     },
-    {
-      info: {
-        id: "386368",
-        name: "KFC",
-        cloudinaryImageId: "56c9ab92bd79745fd152a30fa2525426",
-        locality: "Kasavanhalli",
-        areaName: "Bellandur",
-        costForTwo: "₹400 for two",
-        cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
-        avgRating: 4,
-        feeDetails: {
-          restaurantId: "386368",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3500,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3500,
-        },
-        parentId: "547",
-        avgRatingString: "4.0",
-        totalRatingsString: "5K+",
-        sla: {
-          deliveryTime: 25,
-          lastMileTravel: 0.5,
-          serviceability: "SERVICEABLE",
-          slaString: "25 mins",
-          lastMileTravelString: "0.5 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-27 23:00:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "20% OFF",
-          subHeader: "UPTO ₹50",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/kfc-kasavanhalli-bellandur-bangalore-386368",
-        type: "WEBLINK",
-      },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/truffles-green-glen-layout-bellandur-bangalore-47603",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
     },
-    {
-      info: {
-        id: "222037",
-        name: "Chaayos Chai+Snacks=Relax",
-        cloudinaryImageId: "2beebd3688e63e027ee8a11c1c8a72c8",
-        locality: "Doddakannelli",
-        areaName: "Bellandur",
-        costForTwo: "₹250 for two",
-        cuisines: [
-          "Bakery",
-          "Beverages",
-          "Chaat",
-          "Desserts",
-          "Home Food",
-          "Italian",
-          "Maharashtrian",
-          "Snacks",
-          "Street Food",
-          "Sweets",
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "389992",
+      "name": "Nandhana Palace",
+      "cloudinaryImageId": "195876a3181ef63f76e45e3a7b49b585",
+      "locality": "Daddakanahalli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹600 for two",
+      "cuisines": [
+        "Andhra",
+        "Biryani",
+        "North Indian",
+        "Chinese",
+        "Beverages",
+        "Desserts"
+      ],
+      "avgRating": 4,
+      "feeDetails": {
+        "restaurantId": "389992",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3300
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
         ],
-        avgRating: 4.3,
-        feeDetails: {
-          restaurantId: "222037",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3100,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3100,
-        },
-        parentId: "281782",
-        avgRatingString: "4.3",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 35,
-          lastMileTravel: 2.8,
-          serviceability: "SERVICEABLE",
-          slaString: "35 mins",
-          lastMileTravelString: "2.8 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 02:00:00",
-          opened: true,
-        },
-        badges: {
-          textExtendedBadges: [
-            {
-              iconId: "guiltfree/GF_Logo_android_3x",
-              shortDescription: "options available",
-              fontColor: "#7E808C",
-            },
-          ],
-        },
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "",
-                    fontColor: "#7E808C",
-                    iconId: "guiltfree/GF_Logo_android_3x",
-                    shortDescription: "options available",
-                  },
-                },
-              ],
-            },
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "60% OFF",
-          subHeader: "UPTO ₹120",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
+        "totalFee": 3300
       },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/chaayos-chai-snacks-relax-doddakannelli-bellandur-bangalore-222037",
-        type: "WEBLINK",
+      "parentId": "2120",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 21,
+        "lastMileTravel": 2.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "21 mins",
+        "lastMileTravelString": "2.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
       },
+      "availability": {
+        "nextCloseTime": "2023-09-29 01:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
     },
-    {
-      info: {
-        id: "8069",
-        name: "Theobroma",
-        cloudinaryImageId: "b033728dcb0101ceb19bff0e1e1f6474",
-        locality: "Daddakanahalli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹600 for two",
-        cuisines: ["Bakery"],
-        avgRating: 4.4,
-        feeDetails: {
-          restaurantId: "8069",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3500,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3500,
-        },
-        parentId: "1040",
-        avgRatingString: "4.4",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 32,
-          lastMileTravel: 2.2,
-          serviceability: "SERVICEABLE",
-          slaString: "32 mins",
-          lastMileTravelString: "2.2 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-27 23:00:00",
-          opened: true,
-        },
-        badges: {
-          imageBadges: [
-            {
-              imageId: "newg.png",
-              description: "Gourmet",
-            },
-          ],
-        },
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "Gourmet",
-                    imageId: "newg.png",
-                  },
-                },
-              ],
-            },
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "10% OFF",
-          subHeader: "ABOVE ₹159",
-          discountTag: "FLAT DEAL",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/theobroma-daddakanahalli-sarjapur-road-bangalore-8069",
-        type: "WEBLINK",
-      },
+    "analytics": {
+      "context": "seo-data-36a22296-4d17-4658-ba84-237e5362ae25"
     },
-    {
-      info: {
-        id: "72821",
-        name: "Burger King",
-        cloudinaryImageId: "e33e1d3ba7d6b2bb0d45e1001b731fcf",
-        locality: "Dodda Kannali",
-        areaName: "Kaikondrahalli",
-        costForTwo: "₹350 for two",
-        cuisines: ["Burgers", "American"],
-        avgRating: 4.2,
-        feeDetails: {
-          restaurantId: "72821",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3700,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3700,
-        },
-        parentId: "166",
-        avgRatingString: "4.2",
-        totalRatingsString: "10K+",
-        sla: {
-          deliveryTime: 39,
-          lastMileTravel: 3,
-          serviceability: "SERVICEABLE",
-          slaString: "39 mins",
-          lastMileTravelString: "3.0 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 03:00:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "EVERY ITEM",
-          subHeader: "@ ₹129",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/burger-king-dodda-kannali-kaikondrahalli-bangalore-72821",
-        type: "WEBLINK",
-      },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/nandhana-palace-daddakanahalli-sarjapur-road-bangalore-389992",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
     },
-    {
-      info: {
-        id: "23690",
-        name: "McDonald's",
-        cloudinaryImageId: "ee5f8e06b300efc07c9fe3f4df40dfc4",
-        locality: "ORR Central Mall",
-        areaName: "Bellandur",
-        costForTwo: "₹400 for two",
-        cuisines: ["Burgers", "Beverages", "Cafe", "Desserts"],
-        avgRating: 4.3,
-        feeDetails: {
-          restaurantId: "23690",
-          fees: [
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_DISTANCE",
-              fee: 4300,
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 4300,
-        },
-        parentId: "630",
-        avgRatingString: "4.3",
-        totalRatingsString: "10K+",
-        sla: {
-          deliveryTime: 41,
-          lastMileTravel: 4.2,
-          serviceability: "SERVICEABLE",
-          slaString: "41 mins",
-          lastMileTravelString: "4.2 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 03:45:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "23793",
+      "name": "Domino's Pizza",
+      "cloudinaryImageId": "qowzwpsppcrejwijgwap",
+      "locality": "Daddakanahalli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Pizzas",
+        "Italian",
+        "Pastas",
+        "Desserts"
+      ],
+      "avgRating": 4.3,
+      "feeDetails": {
+        "restaurantId": "23793",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3100
           },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "₹100 OFF",
-          subHeader: "ABOVE ₹549",
-          discountTag: "FLAT DEAL",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
+          {
+            "name": "BASE_TIME"
           },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/mcdonalds-orr-central-mall-bellandur-bangalore-23690",
-        type: "WEBLINK",
-      },
-    },
-    {
-      info: {
-        id: "289274",
-        name: "BOX8 - Desi Meals",
-        cloudinaryImageId: "69a061b7e0f951cef2b4947946f94ec6",
-        locality: "Kaikondralli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹250 for two",
-        cuisines: ["North Indian", "Biryani", "Thalis", "Home Food"],
-        avgRating: 4.4,
-        feeDetails: {
-          restaurantId: "289274",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3100,
-            },
-            {
-              name: "BASE_TIME",
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-          ],
-          totalFee: 3100,
-        },
-        parentId: "10655",
-        avgRatingString: "4.4",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 17,
-          lastMileTravel: 1.5,
-          serviceability: "SERVICEABLE",
-          slaString: "12-22 mins",
-          lastMileTravelString: "1.5 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 02:00:00",
-          opened: true,
-        },
-        badges: {
-          textExtendedBadges: [
-            {
-              iconId: "guiltfree/GF_Logo_android_3x",
-              shortDescription: "options available",
-              fontColor: "#7E808C",
-            },
-          ],
-        },
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "",
-                    fontColor: "#7E808C",
-                    iconId: "guiltfree/GF_Logo_android_3x",
-                    shortDescription: "options available",
-                  },
-                },
-              ],
-            },
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "50% OFF",
-          subHeader: "UPTO ₹100",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/box8-desi-meals-kaikondralli-sarjapur-road-bangalore-289274",
-        type: "WEBLINK",
-      },
-    },
-    {
-      info: {
-        id: "8246",
-        name: "Polar Bear Ice Cream Sundaes",
-        cloudinaryImageId: "57262fe3839f0bff174f3d7e7cc8a2b4",
-        locality: "Eastwood Township",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹200 for two",
-        cuisines: ["Ice Cream", "Desserts"],
-        avgRating: 4.4,
-        veg: true,
-        feeDetails: {
-          restaurantId: "8246",
-          fees: [
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_DISTANCE",
-              fee: 3100,
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3100,
-        },
-        parentId: "726",
-        avgRatingString: "4.4",
-        totalRatingsString: "10K+",
-        sla: {
-          deliveryTime: 29,
-          lastMileTravel: 0.8,
-          serviceability: "SERVICEABLE",
-          slaString: "29 mins",
-          lastMileTravelString: "0.8 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 02:00:00",
-          opened: true,
-        },
-        badges: {
-          imageBadges: [
-            {
-              imageId: "v1695133679/badges/Pure_Veg111.png",
-              description: "pureveg",
-            },
-          ],
-        },
-        isOpen: true,
-        type: "D",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "pureveg",
-                    imageId: "v1695133679/badges/Pure_Veg111.png",
-                  },
-                },
-              ],
-            },
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/polar-bear-ice-cream-sundaes-eastwood-township-sarjapur-road-bangalore-8246",
-        type: "WEBLINK",
-      },
-    },
-    {
-      info: {
-        id: "18532",
-        name: "Madurai Idly Shop",
-        cloudinaryImageId: "ofc5xyoyt7ca60lzr0v0",
-        locality: "Ambalipura",
-        areaName: "Haralur",
-        costForTwo: "₹300 for two",
-        cuisines: ["South Indian"],
-        avgRating: 4,
-        veg: true,
-        feeDetails: {
-          restaurantId: "18532",
-          fees: [
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_DISTANCE",
-              fee: 3700,
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3700,
-        },
-        parentId: "613",
-        avgRatingString: "4.0",
-        totalRatingsString: "10K+",
-        sla: {
-          deliveryTime: 40,
-          lastMileTravel: 3.7,
-          serviceability: "SERVICEABLE",
-          slaString: "40 mins",
-          lastMileTravelString: "3.7 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 01:00:00",
-          opened: true,
-        },
-        badges: {
-          imageBadges: [
-            {
-              imageId: "v1695133679/badges/Pure_Veg111.png",
-              description: "pureveg",
-            },
-          ],
-        },
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "pureveg",
-                    imageId: "v1695133679/badges/Pure_Veg111.png",
-                  },
-                },
-              ],
-            },
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "₹125 OFF",
-          subHeader: "ABOVE ₹249",
-          discountTag: "FLAT DEAL",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/madurai-idly-shop-ambalipura-haralur-bangalore-18532",
-        type: "WEBLINK",
-      },
-    },
-    {
-      info: {
-        id: "279915",
-        name: "Mad Over Donuts",
-        cloudinaryImageId: "4e093cbd10bcd8ceff3faefb8fbdf258",
-        locality: "Daddakanahalli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹200 for two",
-        cuisines: ["Desserts", "Sweets", "Bakery"],
-        avgRating: 4.2,
-        veg: true,
-        feeDetails: {
-          restaurantId: "279915",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3500,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3500,
-        },
-        parentId: "611",
-        avgRatingString: "4.2",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 30,
-          lastMileTravel: 1.9,
-          serviceability: "SERVICEABLE",
-          slaString: "30 mins",
-          lastMileTravelString: "1.9 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 03:00:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "40% OFF",
-          subHeader: "UPTO ₹80",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
-      },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/mad-over-donuts-daddakanahalli-sarjapur-road-bangalore-279915",
-        type: "WEBLINK",
-      },
-    },
-    {
-      info: {
-        id: "99647",
-        name: "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
-        cloudinaryImageId: "m62ks5ljplqkwdx3buhp",
-        locality: "Kaikondrahalli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹250 for two",
-        cuisines: [
-          "Beverages",
-          "Desserts",
-          "Ice Cream",
-          "Waffle",
-          "Bakery",
-          "Healthy Food",
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
         ],
-        avgRating: 4.2,
-        veg: true,
-        feeDetails: {
-          restaurantId: "99647",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3100,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3100,
-        },
-        parentId: "5655",
-        avgRatingString: "4.2",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 36,
-          lastMileTravel: 2,
-          serviceability: "SERVICEABLE",
-          slaString: "36 mins",
-          lastMileTravelString: "2.0 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 01:00:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
-          },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "₹125 OFF",
-          subHeader: "ABOVE ₹249",
-          discountTag: "FLAT DEAL",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
-          },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
+        "totalFee": 3100
       },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/frozen-bottle-milkshakes-desserts-and-ice-cream-kaikondrahalli-sarjapur-road-bangalore-99647",
-        type: "WEBLINK",
+      "parentId": "2456",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 25,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25 mins",
+        "iconType": "ICON_TYPE_EMPTY"
       },
+      "availability": {
+        "nextCloseTime": "2023-09-27 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
     },
-    {
-      info: {
-        id: "311259",
-        name: "Keventers - Milkshakes & Desserts",
-        cloudinaryImageId: "f0e94c984813053f46c214f18ce73d59",
-        locality: "Daddakanahalli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹200 for two",
-        cuisines: ["Beverages", "Ice Cream", "Desserts", "Healthy Food"],
-        avgRating: 3.7,
-        veg: true,
-        feeDetails: {
-          restaurantId: "311259",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3100,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 3100,
-        },
-        parentId: "268997",
-        avgRatingString: "3.7",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 32,
-          lastMileTravel: 1.9,
-          serviceability: "SERVICEABLE",
-          slaString: "32 mins",
-          lastMileTravelString: "1.9 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-28 03:00:00",
-          opened: true,
-        },
-        badges: {
-          imageBadges: [
-            {
-              imageId: "v1695133679/badges/Pure_Veg111.png",
-              description: "pureveg",
-            },
-          ],
-          textExtendedBadges: [
-            {
-              iconId: "guiltfree/GF_Logo_android_3x",
-              shortDescription: "options available",
-              fontColor: "#7E808C",
-            },
-          ],
-        },
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "pureveg",
-                    imageId: "v1695133679/badges/Pure_Veg111.png",
-                  },
-                },
-              ],
-            },
-            textBased: {},
-            textExtendedBadges: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "",
-                    fontColor: "#7E808C",
-                    iconId: "guiltfree/GF_Logo_android_3x",
-                    shortDescription: "options available",
-                  },
-                },
-              ],
-            },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/dominos-pizza-daddakanahalli-sarjapur-road-bangalore-23793",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "386368",
+      "name": "KFC",
+      "cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+      "locality": "Kasavanhalli",
+      "areaName": "Bellandur",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Burgers",
+        "Biryani",
+        "American",
+        "Snacks",
+        "Fast Food"
+      ],
+      "avgRating": 4,
+      "feeDetails": {
+        "restaurantId": "386368",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
           },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "₹150 OFF",
-          subHeader: "ABOVE ₹599",
-          discountTag: "FLAT DEAL",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
+          {
+            "name": "ANCILLARY_SURGE_FEE"
           },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3500
       },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/keventers-milkshakes-and-desserts-daddakanahalli-sarjapur-road-bangalore-311259",
-        type: "WEBLINK",
+      "parentId": "547",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 0.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25 mins",
+        "lastMileTravelString": "0.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
       },
+      "availability": {
+        "nextCloseTime": "2023-09-27 23:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
     },
-    {
-      info: {
-        id: "136738",
-        name: "Baskin Robbins - Ice Cream Desserts",
-        cloudinaryImageId: "85ccae4e3576f9330af102c46ca85395",
-        locality: "Chikkakannalli",
-        areaName: "Sarjapur Road",
-        costForTwo: "₹150 for two",
-        cuisines: ["Ice Cream"],
-        avgRating: 4.3,
-        veg: true,
-        feeDetails: {
-          restaurantId: "136738",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 4300,
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-            {
-              name: "BASE_TIME",
-            },
-          ],
-          totalFee: 4300,
-        },
-        parentId: "5588",
-        avgRatingString: "4.3",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 43,
-          lastMileTravel: 4,
-          serviceability: "SERVICEABLE",
-          slaString: "43 mins",
-          lastMileTravelString: "4.0 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-27 23:00:00",
-          opened: true,
-        },
-        badges: {
-          imageBadges: [
-            {
-              imageId: "v1695133679/badges/Pure_Veg111.png",
-              description: "pureveg",
-            },
-          ],
-        },
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {
-              badgeObject: [
-                {
-                  attributes: {
-                    description: "pureveg",
-                    imageId: "v1695133679/badges/Pure_Veg111.png",
-                  },
-                },
-              ],
-            },
-            textBased: {},
-            textExtendedBadges: {},
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/kfc-kasavanhalli-bellandur-bangalore-386368",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "222037",
+      "name": "Chaayos Chai+Snacks=Relax",
+      "cloudinaryImageId": "2beebd3688e63e027ee8a11c1c8a72c8",
+      "locality": "Doddakannelli",
+      "areaName": "Bellandur",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Bakery",
+        "Beverages",
+        "Chaat",
+        "Desserts",
+        "Home Food",
+        "Italian",
+        "Maharashtrian",
+        "Snacks",
+        "Street Food",
+        "Sweets"
+      ],
+      "avgRating": 4.3,
+      "feeDetails": {
+        "restaurantId": "222037",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3100
           },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "30% OFF",
-          subHeader: "UPTO ₹75",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
+          {
+            "name": "ANCILLARY_SURGE_FEE"
           },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3100
       },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-chikkakannalli-sarjapur-road-bangalore-136738",
-        type: "WEBLINK",
+      "parentId": "281782",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 35,
+        "lastMileTravel": 2.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35 mins",
+        "lastMileTravelString": "2.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
       },
+      "availability": {
+        "nextCloseTime": "2023-09-28 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
     },
-    {
-      info: {
-        id: "223191",
-        name: "Oven Story Pizza - Standout Toppings",
-        cloudinaryImageId: "f986df6f1a1fcf2ff24d2eaf44d570a7",
-        locality: "Sarjapur Main Road",
-        areaName: "Kaikondrahalli",
-        costForTwo: "₹400 for two",
-        cuisines: ["Pizzas", "Pastas", "Italian", "Desserts", "Beverages"],
-        avgRating: 3.9,
-        feeDetails: {
-          restaurantId: "223191",
-          fees: [
-            {
-              name: "BASE_DISTANCE",
-              fee: 3500,
-            },
-            {
-              name: "BASE_TIME",
-            },
-            {
-              name: "ANCILLARY_SURGE_FEE",
-            },
-          ],
-          totalFee: 3500,
-        },
-        parentId: "3534",
-        avgRatingString: "3.9",
-        totalRatingsString: "1K+",
-        sla: {
-          deliveryTime: 27,
-          lastMileTravel: 2,
-          serviceability: "SERVICEABLE",
-          slaString: "23-32 mins",
-          lastMileTravelString: "2.0 km",
-          iconType: "ICON_TYPE_EMPTY",
-        },
-        availability: {
-          nextCloseTime: "2023-09-27 23:59:00",
-          opened: true,
-        },
-        badges: {},
-        isOpen: true,
-        type: "F",
-        badgesV2: {
-          entityBadges: {
-            imageBased: {},
-            textBased: {},
-            textExtendedBadges: {},
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/chaayos-chai-snacks-relax-doddakannelli-bellandur-bangalore-222037",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "8069",
+      "name": "Theobroma",
+      "cloudinaryImageId": "b033728dcb0101ceb19bff0e1e1f6474",
+      "locality": "Daddakanahalli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹600 for two",
+      "cuisines": [
+        "Bakery"
+      ],
+      "avgRating": 4.4,
+      "feeDetails": {
+        "restaurantId": "8069",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
           },
-        },
-        aggregatedDiscountInfoV3: {
-          header: "60% OFF",
-          subHeader: "UPTO ₹120",
-        },
-        loyaltyDiscoverPresentationInfo: {
-          badgeType: "BADGE_TYPE_OFFER_PACK",
-          offerSubText: "with offer pack",
-          nonSwiggyOneFreedelMessage: "FREE DELIVERY",
-        },
-        differentiatedUi: {
-          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-          differentiatedUiMediaDetails: {
-            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-            lottie: {},
-            video: {},
+          {
+            "name": "ANCILLARY_SURGE_FEE"
           },
-        },
-        reviewsSummary: {},
-        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-        restaurantOfferPresentationInfo: {},
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3500
       },
-      analytics: {},
-      cta: {
-        link: "https://www.swiggy.com/restaurants/oven-story-pizza-standout-toppings-sarjapur-main-road-kaikondrahalli-bangalore-223191",
-        type: "WEBLINK",
+      "parentId": "1040",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 2.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "32 mins",
+        "lastMileTravelString": "2.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
       },
+      "availability": {
+        "nextCloseTime": "2023-09-27 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "newg.png",
+            "description": "Gourmet"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Gourmet",
+                  "imageId": "newg.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "ABOVE ₹159",
+        "discountTag": "FLAT DEAL"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
     },
-  ]
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/theobroma-daddakanahalli-sarjapur-road-bangalore-8069",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "72821",
+      "name": "Burger King",
+      "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+      "locality": "Dodda Kannali",
+      "areaName": "Kaikondrahalli",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "Burgers",
+        "American"
+      ],
+      "avgRating": 4.2,
+      "feeDetails": {
+        "restaurantId": "72821",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3700
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3700
+      },
+      "parentId": "166",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 39,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "39 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 03:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "EVERY ITEM",
+        "subHeader": "@ ₹129"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/burger-king-dodda-kannali-kaikondrahalli-bangalore-72821",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "23690",
+      "name": "McDonald's",
+      "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+      "locality": "ORR Central Mall",
+      "areaName": "Bellandur",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Burgers",
+        "Beverages",
+        "Cafe",
+        "Desserts"
+      ],
+      "avgRating": 4.3,
+      "feeDetails": {
+        "restaurantId": "23690",
+        "fees": [
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 4300
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 4300
+      },
+      "parentId": "630",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 41,
+        "lastMileTravel": 4.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "41 mins",
+        "lastMileTravelString": "4.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 03:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹549",
+        "discountTag": "FLAT DEAL"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mcdonalds-orr-central-mall-bellandur-bangalore-23690",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "289274",
+      "name": "BOX8 - Desi Meals",
+      "cloudinaryImageId": "69a061b7e0f951cef2b4947946f94ec6",
+      "locality": "Kaikondralli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "North Indian",
+        "Biryani",
+        "Thalis",
+        "Home Food"
+      ],
+      "avgRating": 4.4,
+      "feeDetails": {
+        "restaurantId": "289274",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3100
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3100
+      },
+      "parentId": "10655",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 17,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "12-22 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/box8-desi-meals-kaikondralli-sarjapur-road-bangalore-289274",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "8246",
+      "name": "Polar Bear Ice Cream Sundaes",
+      "cloudinaryImageId": "57262fe3839f0bff174f3d7e7cc8a2b4",
+      "locality": "Eastwood Township",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Ice Cream",
+        "Desserts"
+      ],
+      "avgRating": 4.4,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "8246",
+        "fees": [
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3100
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3100
+      },
+      "parentId": "726",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 29,
+        "lastMileTravel": 0.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "29 mins",
+        "lastMileTravelString": "0.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "D",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/polar-bear-ice-cream-sundaes-eastwood-township-sarjapur-road-bangalore-8246",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "18532",
+      "name": "Madurai Idly Shop",
+      "cloudinaryImageId": "ofc5xyoyt7ca60lzr0v0",
+      "locality": "Ambalipura",
+      "areaName": "Haralur",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "South Indian"
+      ],
+      "avgRating": 4,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "18532",
+        "fees": [
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3700
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3700
+      },
+      "parentId": "613",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 40,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 01:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/madurai-idly-shop-ambalipura-haralur-bangalore-18532",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "279915",
+      "name": "Mad Over Donuts",
+      "cloudinaryImageId": "4e093cbd10bcd8ceff3faefb8fbdf258",
+      "locality": "Daddakanahalli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Desserts",
+        "Sweets",
+        "Bakery"
+      ],
+      "avgRating": 4.2,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "279915",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "611",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 1.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30 mins",
+        "lastMileTravelString": "1.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 03:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mad-over-donuts-daddakanahalli-sarjapur-road-bangalore-279915",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "99647",
+      "name": "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
+      "cloudinaryImageId": "m62ks5ljplqkwdx3buhp",
+      "locality": "Kaikondrahalli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Beverages",
+        "Desserts",
+        "Ice Cream",
+        "Waffle",
+        "Bakery",
+        "Healthy Food"
+      ],
+      "avgRating": 4.2,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "99647",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3100
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3100
+      },
+      "parentId": "5655",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 36,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "36 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 01:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/frozen-bottle-milkshakes-desserts-and-ice-cream-kaikondrahalli-sarjapur-road-bangalore-99647",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "311259",
+      "name": "Keventers - Milkshakes & Desserts",
+      "cloudinaryImageId": "f0e94c984813053f46c214f18ce73d59",
+      "locality": "Daddakanahalli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Beverages",
+        "Ice Cream",
+        "Desserts",
+        "Healthy Food"
+      ],
+      "avgRating": 3.7,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "311259",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3100
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 3100
+      },
+      "parentId": "268997",
+      "avgRatingString": "3.7",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 1.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "32 mins",
+        "lastMileTravelString": "1.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-28 03:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹150 OFF",
+        "subHeader": "ABOVE ₹599",
+        "discountTag": "FLAT DEAL"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/keventers-milkshakes-and-desserts-daddakanahalli-sarjapur-road-bangalore-311259",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "136738",
+      "name": "Baskin Robbins - Ice Cream Desserts",
+      "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+      "locality": "Chikkakannalli",
+      "areaName": "Sarjapur Road",
+      "costForTwo": "₹150 for two",
+      "cuisines": [
+        "Ice Cream"
+      ],
+      "avgRating": 4.3,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "136738",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 4300
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          },
+          {
+            "name": "BASE_TIME"
+          }
+        ],
+        "totalFee": 4300
+      },
+      "parentId": "5588",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 43,
+        "lastMileTravel": 4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "43 mins",
+        "lastMileTravelString": "4.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-27 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-chikkakannalli-sarjapur-road-bangalore-136738",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "223191",
+      "name": "Oven Story Pizza - Standout Toppings",
+      "cloudinaryImageId": "f986df6f1a1fcf2ff24d2eaf44d570a7",
+      "locality": "Sarjapur Main Road",
+      "areaName": "Kaikondrahalli",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Pizzas",
+        "Pastas",
+        "Italian",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 3.9,
+      "feeDetails": {
+        "restaurantId": "223191",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "3534",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "23-32 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-27 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "badgeType": "BADGE_TYPE_OFFER_PACK",
+        "offerSubText": "with offer pack",
+        "nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/oven-story-pizza-standout-toppings-sarjapur-main-road-kaikondrahalli-bangalore-223191",
+      "type": "WEBLINK"
+    }
+  }
+]
