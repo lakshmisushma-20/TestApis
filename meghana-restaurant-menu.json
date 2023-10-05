@@ -1,0 +1,138 @@
+[
+    {
+        "type": "Veg Item. Golden Baby Corn. Costs: 300 rupees, Description: 300 gram | Serves 1 |  [Energy: 325.18 kcal, Protein: 9.84g, Carbohydrates: 40.6g, Fat: 13.76g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Golden Baby Corn",
+        "price": "300",
+        "description": "300 gram | Serves 1 |  [Energy: 325.18 kcal, Protein: 9.84g, Carbohydrates: 40.6g, Fat: 13.76g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ocgjpnijydsughgjnkk0",
+        "tag": ""
+    },
+    {
+        "type": "Veg Item. Paneer 65. Costs: 320 rupees, Description: 300 gram | Serves 1 |  [Energy: 723.82 kcal, Protein: 32.95g, Carbohydrates: 30.89g, Fat: 51.82g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Paneer 65",
+        "price": "320",
+        "description": "300 gram | Serves 1 |  [Energy: 723.82 kcal, Protein: 32.95g, Carbohydrates: 30.89g, Fat: 51.82g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/druwjzmfmz7qvepq3bkr",
+        "tag": ""
+    },
+    {
+        "type": "Veg Item. Aloo Dum Biryani. This item is a Bestseller, Costs: 285 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1415.98 kcal, Protein: 25.46g, Carbohydrates: 226.97g, Fat: 42.15g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Aloo Dum Biryani",
+        "price": "285",
+        "description": "1050 gram | Serves 1 |  [Energy: 1415.98 kcal, Protein: 25.46g, Carbohydrates: 226.97g, Fat: 42.15g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mtuzvgdmipuikj6pxllr",
+        "tag": "Bestseller"
+    },
+    {
+        "type": "Veg Item. Spl Veg Biryani. This item is a Bestseller, Costs: 300 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1327.35 kcal, Protein: 26.99g, Carbohydrates: 213.24g, Fat: 38.46g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Spl Veg Biryani",
+        "price": "300",
+        "description": "1050 gram | Serves 1 |  [Energy: 1327.35 kcal, Protein: 26.99g, Carbohydrates: 213.24g, Fat: 38.46g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fsitbray4gq1kxcndqqx",
+        "tag": "Bestseller"
+    },
+    {
+        "type": "Veg Item. Paneer Biryani. This item is a Bestseller, Costs: 330 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1800.51 kcal, Protein: 61.42g, Carbohydrates: 198.62g, Fat: 82g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Paneer Biryani",
+        "price": "330",
+        "description": "1050 gram | Serves 1 |  [Energy: 1800.51 kcal, Protein: 61.42g, Carbohydrates: 198.62g, Fat: 82g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gehax5kizfwncsgkris2",
+        "tag": "Bestseller"
+    },
+    {
+        "type": "Non-veg item. Chilly Chicken (Boneless). Costs: 320 rupees, Description: 370 gram | Serves 1 |  [Energy: 604.42 kcal, Protein: 50.63g, Carbohydrates: 29.67g, Fat: 30.94g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Chilly Chicken (Boneless)",
+        "price": "320",
+        "description": "370 gram | Serves 1 |  [Energy: 604.42 kcal, Protein: 50.63g, Carbohydrates: 29.67g, Fat: 30.94g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ry3c3f518z10t4olu4l7",
+        "tag": ""
+    },
+    {
+        "type": "Non-veg item. Chicken Lollypop. Costs: 325 rupees, Description: 250 gram | Serves 1 |  [Energy: 389.14 kcal, Protein: 36.13g, Carbohydrates: 7.31g, Fat: 23.92g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Chicken Lollypop",
+        "price": "325",
+        "description": "250 gram | Serves 1 |  [Energy: 389.14 kcal, Protein: 36.13g, Carbohydrates: 7.31g, Fat: 23.92g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ldqyxnhlfylhymnsopzc",
+        "tag": ""
+    },
+    {
+        "type": "Non-veg item. Lemon Chicken. Costs: 320 rupees, Description: 370 gram | Serves 1 |  [Energy: 582.12 kcal, Protein: 44.58g, Carbohydrates: 31.16g, Fat: 30.79g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Lemon Chicken",
+        "price": "320",
+        "description": "370 gram | Serves 1 |  [Energy: 582.12 kcal, Protein: 44.58g, Carbohydrates: 31.16g, Fat: 30.79g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vnotaq2k5i2nqdigafon",
+        "tag": ""
+    },
+    {
+        "type": "Non-veg item. Meghana Chicken 555. Costs: 325 rupees, Description: 300 gram | Serves 1 |  [Energy: 585.13 kcal, Protein: 32.48g, Carbohydrates: 26.88g, Fat: 39.36g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Meghana Chicken 555",
+        "price": "325",
+        "description": "300 gram | Serves 1 |  [Energy: 585.13 kcal, Protein: 32.48g, Carbohydrates: 26.88g, Fat: 39.36g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/irnwr59vlrmciau11or0",
+        "tag": ""
+    },
+    {
+        "type": "Non-veg item. Chicken Biryani. This item is a Bestseller, Costs: 315 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1615.27 kcal, Protein: 61.82g, Carbohydrates: 190.89g, Fat: 64.63g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Chicken Biryani",
+        "price": "315",
+        "description": "1050 gram | Serves 1 |  [Energy: 1615.27 kcal, Protein: 61.82g, Carbohydrates: 190.89g, Fat: 64.63g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zbrpxvywfsrrb7os11jf",
+        "tag": "Bestseller"
+    },
+    {
+        "type": "Non-veg item. Chicken Boneless Biryani. This item is a Bestseller, Costs: 325 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1446.5 kcal, Protein: 64.22g, Carbohydrates: 189.62g, Fat: 44.2g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Chicken Boneless Biryani",
+        "price": "325",
+        "description": "1050 gram | Serves 1 |  [Energy: 1446.5 kcal, Protein: 64.22g, Carbohydrates: 189.62g, Fat: 44.2g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iivuhjc2mswi9lublktf",
+        "tag": "Bestseller"
+    },
+    {
+        "type": "Non-veg item. Lollipop Biryani. Costs: 325 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1673.09 kcal, Protein: 45.42g, Carbohydrates: 217.95g, Fat: 65.98g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Lollipop Biryani",
+        "price": "325",
+        "description": "1050 gram | Serves 1 |  [Energy: 1673.09 kcal, Protein: 45.42g, Carbohydrates: 217.95g, Fat: 65.98g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tscwxqko4pabme8gj2ty",
+        "tag": ""
+    },
+    {
+        "type": "Non-veg item. Meghana Special Biryani. This item is a Bestseller, Costs: 330 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1456.21 kcal, Protein: 64.65g, Carbohydrates: 190.89g, Fat: 44.5g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Meghana Special Biryani",
+        "price": "330",
+        "description": "1050 gram | Serves 1 |  [Energy: 1456.21 kcal, Protein: 64.65g, Carbohydrates: 190.89g, Fat: 44.5g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zuthvcwjjvdjmo6n1pbl",
+        "tag": "Bestseller"
+    },
+    {
+        "type": "Non-veg item. Mutton Keema Biryani. Costs: 425 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1551.26 kcal, Protein: 42.47g, Carbohydrates: 200.46g, Fat: 61.1g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Mutton Keema Biryani",
+        "price": "425",
+        "description": "1050 gram | Serves 1 |  [Energy: 1551.26 kcal, Protein: 42.47g, Carbohydrates: 200.46g, Fat: 61.1g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bsswvqauvfo1qg4lqblz",
+        "tag": ""
+    },
+    {
+        "type": "Non-veg item. Prawns Biryani. Costs: 415 rupees, Description: 1050 gram | Serves 1 |  [Energy: 1431.95 kcal, Protein: 37.34g, Carbohydrates: 213.4g, Fat: 43.56g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Prawns Biryani",
+        "price": "415",
+        "description": "1050 gram | Serves 1 |  [Energy: 1431.95 kcal, Protein: 37.34g, Carbohydrates: 213.4g, Fat: 43.56g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pxqhnjvdhm3nyqkhxute",
+        "tag": ""
+    },
+    {
+        "type": "Non-veg item. Butter Chicken Curry. Costs: 330 rupees, Description: 600 gram | Serves 1 |  [Energy: 910.32 kcal, Protein: 50.28g, Carbohydrates: 32.44g, Fat: 63.47g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Butter Chicken Curry",
+        "price": "330",
+        "description": "600 gram | Serves 1 |  [Energy: 910.32 kcal, Protein: 50.28g, Carbohydrates: 32.44g, Fat: 63.47g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mqfjzwea48recubya6or",
+        "tag": ""
+    },
+    {
+        "type": "Veg Item. Paneer Butter Masala. Costs: 320 rupees, Description: 550 gram | Serves 1 |  [Energy: 1156.81 kcal, Protein: 43.54g, Carbohydrates: 37.93g, Fat: 92.6g] This item is customizable. Swipe right to add item to cart.",
+        "name": "Paneer Butter Masala",
+        "price": "320",
+        "description": "550 gram | Serves 1 |  [Energy: 1156.81 kcal, Protein: 43.54g, Carbohydrates: 37.93g, Fat: 92.6g]",
+        "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ksjxi61s8xqlj8cqp4zs",
+        "tag": ""
+    }
+]
